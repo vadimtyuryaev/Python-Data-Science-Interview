@@ -1,9 +1,8 @@
 # Python Data-Science Interview Jupyter Notebook
 
 <!-- badges: start -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadimtyuryaev/)
 [![Medium](https://img.shields.io/badge/Medium-@vadimtyuryaev-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vadimtyuryaev)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!-- badges: end -->
  
 This repository supports the Medium article  
@@ -43,9 +42,9 @@ It delivers **fully executed Jupyer notebook** with step-by-step answers for eve
 | # | Concept | Why It Matters |
 |---|---------|----------------|
 | 1 | **Central Limit Theorem**  | Justifies normal-based inference even for non-normal data. |
-| 2 | **p-Value** Interpretation | Quantifies evidence against the null hypothesis. |
-| 3 | **Type I (α), Type II (β) Errors & Power** |Better understanding of hypothess  |
-| 4 | **Confusion Matrix** | Important machine learning metrics and their application |
-| 5 | **Cross-Validation** | Robust model evaluation |
+| 2 | **p-Value**  | Quantifies evidence against the null hypothesis. |
+| 3 | **Type I (α), Type II (β) Errors & Power** | Specify reliability of statsitical tests.  |
+| 4 | **Confusion Matrix** | Delivers actionable precision, recall, and F1 metrics. |
+| 5 | **Cross-Validation** | Provides robust model evaluation. |
 
 ---
