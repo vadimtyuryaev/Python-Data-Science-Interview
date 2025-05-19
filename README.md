@@ -1,8 +1,8 @@
 # Python Data-Science Interview Jupyter Notebook
 
 <!-- badges: start -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Static Badge](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvadimtyuryaev%2F-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadimtyuryaev/)
+[![Medium](https://img.shields.io/badge/Medium-@vadimtyuryaev-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vadimtyuryaev)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <!-- badges: end -->
  
