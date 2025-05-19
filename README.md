@@ -1,8 +1,8 @@
 # Python Data-Science Interview Jupyter Notebook
 
 <!-- badges: start -->
-[![Medium](https://img.shields.io/badge/Medium-@vadimtyuryaev-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vadimtyuryaev)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Medium](https://img.shields.io/badge/Medium-@vadimtyuryaev-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vadimtyuryaev)
 <!-- badges: end -->
  
 This repository supports the Medium article  
