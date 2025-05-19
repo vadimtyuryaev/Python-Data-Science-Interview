@@ -1,13 +1,19 @@
-# 🔍 Python Data-Science Interview Workbook (2025 Edition)
+# Python Data-Science Interview Jupyter Notebook
 
+<!-- badges: start -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Static Badge](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvadimtyuryaev%2F-blue)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<!-- badges: end -->
+ 
 This repository supports the Medium article  
 **“Top 20 Python Data-Science Interview Questions 2025 + 5 Essential Concepts Every Data Scientist Should Know.”**
 
-It delivers **fully executed Jupyer notebook with step-by-step answers for every question and concept listed below.**
+It delivers **fully executed Jupyer notebook** with step-by-step answers for every question and concept listed below.
 
 ---
 
-## 📝 Top 20 Interview Questions Covered
+## Top 20 Interview Questions Covered
 
 1. Difference between a Python **list** and a **tuple**  
 2. Why **NumPy arrays** outperform Python lists  
@@ -32,13 +38,13 @@ It delivers **fully executed Jupyer notebook with step-by-step answers for every
 
 ---
 
-## 📚 Five Essential Concepts Explained Computationally
+## Five Essential Concepts Explained Computationally
 
 | # | Concept | Why It Matters |
 |---|---------|----------------|
-| 1 | **Central Limit Theorem** (CLT) | Justifies normal-based inference even for non-normal data. |
-| 2 | **p-Value** Interpretation | Quantifies evidence against the null|
-| 3 | **Type I (α), Type II (β) Errors & Power** |Better understanding of hypothesis  |
+| 1 | **Central Limit Theorem**  | Justifies normal-based inference even for non-normal data. |
+| 2 | **p-Value** Interpretation | Quantifies evidence against the null hypothesis. |
+| 3 | **Type I (α), Type II (β) Errors & Power** |Better understanding of hypothess  |
 | 4 | **Confusion Matrix** | Important machine learning metrics and their application |
 | 5 | **Cross-Validation** | Robust model evaluation |
 
